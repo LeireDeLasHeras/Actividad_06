@@ -88,6 +88,6 @@ form input[type="email"]:enabled{
     color: green;
 }
 form input[type="radio"]:checked + label{
-    font-weight: bold;
+    font-weight:lighter;
     
 }
